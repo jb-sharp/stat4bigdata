@@ -7,4 +7,9 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
       - Numerici
       - Stringhe
       - Booleani
-  - Variabili  
+  - Variabili
+- Lezione 2
+  - Liste e Tuple
+  - Insiemi
+  - Dizionari
+  - File I/O
