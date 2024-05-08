@@ -13,3 +13,7 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
   - Insiemi
   - Dizionari
   - File I/O
+- Lezione 3
+  - Booleani
+  - Operatori di confronto
+  - Comandi if else
