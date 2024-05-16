@@ -17,3 +17,7 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
   - Booleani
   - Operatori di confronto
   - Comandi if else
+- Lezione 4
+  - Cicli
+    - For
+    - While
