@@ -21,3 +21,7 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
   - Cicli
     - For
     - While
+- Lezione 5
+  - Funzioni
+  - Visibilità
+  - Ricorsione
