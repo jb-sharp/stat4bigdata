@@ -31,3 +31,6 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
   - Ereditarietà
 - Lezione 7
   - NumPy
+- Lezione 8
+  - Matplotlib
+  - Pandas
