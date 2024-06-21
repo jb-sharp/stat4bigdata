@@ -38,3 +38,5 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
   - Scikit-learn
     - K means
     - PCA
+- Lezione 10 - EXTRA
+  - Alberi Decisionali
