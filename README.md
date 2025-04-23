@@ -6,3 +6,5 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
     - Tipi di dato (numerici, booleani e stringhe)
     - Costanti e variabili
 - Lezione 2
+    - Strutture dati (liste, tuple, insiemi e dizionari)
+    - Moduli (os) e files
