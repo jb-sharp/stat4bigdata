@@ -8,3 +8,6 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
 - Lezione 2
     - Strutture dati (liste, tuple, insiemi e dizionari)
     - Moduli (os) e files
+- Lezione 3
+    - Booleani e operatori logigi
+    - Costrutti if, if-else, if-elif-else
