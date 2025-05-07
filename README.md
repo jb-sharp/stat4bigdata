@@ -11,3 +11,8 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
 - Lezione 3
     - Booleani e operatori logigi
     - Costrutti if, if-else, if-elif-else
+- Lezione 4
+    - Cicli for e while,
+    - Istruzioni break e continue
+    - List comprehension
+    - Funzioni range e enumerate
