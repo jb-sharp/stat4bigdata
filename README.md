@@ -16,3 +16,7 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
     - Istruzioni break e continue
     - List comprehension
     - Funzioni range e enumerate
+- Lezione 5
+    - Funzioni
+    - Visibilità delle variabili
+    - Ricorsione
