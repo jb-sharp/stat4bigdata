@@ -20,3 +20,6 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
     - Funzioni
     - Visibilità delle variabili
     - Ricorsione
+- Lezione 6
+    - Classi e oggetti
+    - Ereditarietà
