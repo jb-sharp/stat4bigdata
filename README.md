@@ -23,3 +23,5 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
 - Lezione 6
     - Classi e oggetti
     - Ereditarietà
+- Lezione 7
+    - NumPy, vettori e matrici
