@@ -25,3 +25,7 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
     - Ereditarietà
 - Lezione 7
     - NumPy, vettori e matrici
+- Lezione 8
+    - Matplotlib: figure ed assi, plot, scatterplot e barplot.
+    - Pandas: DataFrame e Series.
+
