@@ -28,4 +28,8 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
 - Lezione 8
     - Matplotlib: figure ed assi, plot, scatterplot e barplot.
     - Pandas: DataFrame e Series.
+- Lezione 9
+    - Sklearn: Alberi decisionali.
+- EXTRA
+    - Sklearn: K-means e Analisi delle componenti principali.
 
