@@ -8,3 +8,10 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
     - Stringhe
     - Booleani
   - Variabili
+- Lezione 2
+  - Strutture dati
+      - Liste
+      - Tuple
+      - Insiemi
+      - Dizionari
+  - Modulo os (da completare)
