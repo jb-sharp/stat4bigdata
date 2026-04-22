@@ -14,4 +14,8 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
       - Tuple
       - Insiemi
       - Dizionari
-  - Modulo os (da completare)
+  - Modulo os
+- Lezione 3
+  - Lettura e scrittura di file
+  - Operatori condizionali
+  - Costrutti if-elif-else
