@@ -19,3 +19,8 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
   - Lettura e scrittura di file
   - Operatori condizionali
   - Costrutti if-elif-else
+- Lezione 4
+  - Cicli
+     - for
+     - while
+  - List comprehension
