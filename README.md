@@ -24,3 +24,7 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
      - for
      - while
   - List comprehension
+- Lezione 5
+  - Funzioni
+  - Visibilità
+  - Ricorsione
