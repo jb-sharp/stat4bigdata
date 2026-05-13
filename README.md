@@ -28,3 +28,7 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
   - Funzioni
   - Visibilità
   - Ricorsione
+- Lezione 6
+  - Classi
+  - Attributi e Metodi
+  - Ereditarietà
