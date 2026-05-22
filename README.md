@@ -32,3 +32,5 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
   - Classi
   - Attributi e Metodi
   - Ereditarietà
+- Lezione 7
+  - NumPy
