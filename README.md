@@ -37,3 +37,5 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
 - Lezione 8
   - Matplotlib
   - Pandas
+- Lezione 9
+  - Scikit-learn (K-means e PCA)
