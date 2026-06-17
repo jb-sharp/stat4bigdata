@@ -39,3 +39,5 @@ Repository per i materiali didattici delle Esercitazioni dell'anno accademico 20
   - Pandas
 - Lezione 9
   - Scikit-learn (K-means e PCA)
+- Lezione 10
+  - Scikit-learn (Alberi decisionali)
